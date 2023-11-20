@@ -1,0 +1,33 @@
+body{
+    background-color: #3b140d; 
+    color: #ffdab2; 
+    font-family:'Rubik', sans-serif;
+
+}
+
+/*Asi se pone un coment*/
+
+h1, p{
+    color: #c48a16;}
+
+h3{
+    color: #976f4c;}
+
+.img1 {width: 380px; height: 250px;border-style: double; border-width: 15px; border-color: aliceblue;
+    margin-left: 50px; margin-bottom: 30px; margin-top: 30px; padding: 10px;
+
+}
+
+.img2 {width: 380px; height: 400px; border-style: double; border-width: 15px; border-color: aliceblue;
+    margin-left: 50px; margin-top: 30px; padding: 10px;
+
+}
+
+footer {background-color: rgb(0, 0, 0);
+
+ }
+
+small, a{color: rgb(242, 210, 182); margin-bottom: 0;
+
+}
+
